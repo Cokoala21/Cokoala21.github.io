@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    background-color:#2C3E50 ;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+#main-title{
+    color: #E67E22 ;
+    text-align: center;
+    padding: 25px;
+    font-size: 38px;
+}
+
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.line{
+    color: aliceblue;
+    width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   }
+
+   h2{
+    margin-top: 26px;
+    color: antiquewhite;
+    text-align: center;
+    padding: 28px;
+   }
+
+   span{
+    color: azure;
+    text-align: center;
+    font-size: 12px;
+   }
+
+   #Primer-blockquote{
+    color: bisque;
+    text-align: center;
+    font-size: 18px;
+   }
+
+   #primer-video{
+    color: bisque;
+    text-align: center;
+    font-size: 16px;
+   }
+
+ #como-nacio{
+    display: flex; justify-content: center;
+    width: 5000px;
+ }
+
+ iframe{
+    
+    width:550px;
+    height: 360px;
+    display: block; margin: auto;
+    padding: 30px;
+ }
+
+ #cita-dos{
+    color: bisque;
+    text-align: center;
+    font-size: 18px;
+ }
+
+ p{
+    color:#ABEBC6 ;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 16px;
+ }
+
+ #Internet-hoy{
+    display: block; margin: auto;
+    padding: 34px;
+ }
+ 
+
+ #tercera-cita{
+    color: bisque;
+    text-align: center;
+    font-size: 18px;
+     }
+
+
+
+     .container {
+      display: flex;
+      width: 100%;
+      height: 600px;
+      margin: auto;
+      background-color: aliceblue;
+      border: solid orange 3px; 
+  }
+
+  .container-two  {
+   display: flex;
+   width: 100%;
+   height: 400px;
+   margin: auto;
+   background-color: aliceblue;
+   border: solid orange 3px; 
+}
+  
+ 
+    h3{
+      font-size: 30px;
+     text-align: center;
+     color: aliceblue;
+    }  
+  
+  
+  .icon-one{
+      height: 160px;
+      width: 160px;
+      display: block;
+      margin: auto;
+      padding-top: 15px;
+  }
+  
+  .flex-item:nth-child(1){
+      
+      display: block;
+  }
+  
+  .flex-item:nth-child(2){
+      
+  }
+  
+  .flex-item:nth-child(3){
+    
+  }
+
+  footer{
+   color: beige;
+  }
